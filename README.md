@@ -13,7 +13,7 @@
 `cd ml-powered-applications`
 
 ---
-title: "Github 블로그 만들기"
+title: "Github"
 permalink: /categories/making-blog
 layout: category
 taxonomy: making-blog
