@@ -13,8 +13,13 @@
 `cd ml-powered-applications`
 
 ---
+
 title: "Github"
+
 permalink: /categories/making-blog
+
 layout: category
+
 taxonomy: making-blog
+
 ---
