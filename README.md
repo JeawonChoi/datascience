@@ -11,3 +11,10 @@
 그다음 저장소 폴더에서 [virtualenv](https://pypi.org/project/virtualenv/)를 사용해 파이썬 가상환경을 만듭니다:
 
 `cd ml-powered-applications`
+
+---
+title: "Github 블로그 만들기"
+permalink: /categories/making-blog
+layout: category
+taxonomy: making-blog
+---
